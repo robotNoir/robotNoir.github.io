@@ -31,11 +31,6 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "published"
-          field:
-            element: "checkbox"
-            label: "published"
-            value: true
       - name: "layout"
         field:
           element: "hidden"
