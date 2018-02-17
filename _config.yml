@@ -41,9 +41,10 @@ prose:
           label: "title"
       - name: "tags"
         field:
-          element: "text"
+          element: "multiselect"
           label: "Add Tags"
-          type: "text"
+          placeholder: "Choose Tags"
+          alterable: true
 
 sass:
     style: compressed
