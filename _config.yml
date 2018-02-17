@@ -48,7 +48,7 @@ prose:
           element: "text"
           label: "date"
           value: CURRENT_DATETIME
-          type: "date"
+          type: "text"
       - name: "tags"
         field:
           element: "multiselect"
@@ -57,9 +57,10 @@ prose:
           alterable: true
       - name: "comments"
         field: 
-          element: "checkbox"
+          element: "button"
           label: "Allow comments on this post?"
-          value: true
+          on: "Enabled"
+          off: "Disabled"
       
 sass:
     style: compressed
