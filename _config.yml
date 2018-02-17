@@ -31,9 +31,15 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "Published"
+      	field:
+        	label: "Published"
+            element: "checkbox"
+            value: "true"
       - name: "layout"
         field:
           element: "hidden"
+          label: "Layout"
           value: "post"
       - name: "title"
         field:
@@ -42,7 +48,7 @@ prose:
       - name: "description"
         field:
           element: "textarea"
-          label: "Post description"
+          label: "Enter a post description"
       - name: "date"
         field:
           element: "text"
@@ -55,15 +61,22 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           alterable: true
+      - name: "categories"
+      	fields:
+        	element: "multiselect"
+            label: "Add categories"
+            placeholder: "Choose categories"
+            value:
+            	- name: "Personal"
+                  value: personal
+            alterable: true
       - name: "comments"
         field: 
-          element: "button"
-          label: "Allow comments on this post?"
-          on: "Enabled"
-          off: "Disabled"
+          element: "checkbox"
+          label: "Comments?"
+          value: false
       
 sass:
     style: compressed
 
 exclude: [vendor]
-
