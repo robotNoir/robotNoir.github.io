@@ -21,12 +21,29 @@ permalink: /:year/:month/:title
 
 # Prose settings
 prose:
+  rooturl: '_posts'
+  siteurl: 'https//robotnoir.github.io'
+  media: 'assets'
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
       - name: "title"
         field:
           element: "text"
           label: "title"
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Add Tags"
+          type: "text"
 
 sass:
     style: compressed
