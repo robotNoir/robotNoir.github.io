@@ -11,11 +11,11 @@ description: >-
   pp. 1267]
 ---
 
-## Isolation
-(+)-Pleuromutilin is an diterpene with antiobiotic properties first isolated from the fungus __Clitopilus passeckerianus__ in 1951<sup>1</sup>.
+## Isolation 
+(+)-Pleuromutilin is an diterpene with antiobiotic properties first isolated from the fungus *Clitopilus passeckerianus* in 1951<sup>1</sup>.
 
-![reisman-pleuromutilin-1.png]({{site.baseurl}}/assets/reisman-pleuromutilin-1.png)
-
+![reisman-pleuromutilin-1.png]({{site.baseurl}}/assets/reisman-pleuromutilin-1.png | width=100)
+{: .center}
 
 
 ## Retrosynthesis
@@ -25,4 +25,4 @@ description: >-
 ## Final Comments
 
 ## References
-1. Kavanagh, F.; Hervey, A.; Robbins, W. __Proc. Natl. Acad. Sci. USA.__ ****1951****, 37, 570.
+1. Kavanagh, F.; Hervey, A.; Robbins, W. *Proc. Natl. Acad. Sci. USA.* **1951**, 37, 570.
