@@ -19,6 +19,14 @@ include: [_pages]
 markdown: kramdown
 permalink: /:year/:month/:title
 
+# Prose settings
+metadata:
+  _posts:
+    - name: "title"
+      field:
+        element: "text"
+        label: "title"
+
 sass:
     style: compressed
 
