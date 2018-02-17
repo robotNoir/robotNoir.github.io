@@ -2,21 +2,15 @@
 layout: content
 title: About
 permalink: /about/
+published: true
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+Hi!
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+I'm Angus. I'm from Melbourne, Australia and am currently pursuing a Masters of Science in Chemistry. 
 
-----
+## Why the blog?
+Nature can be really beautiful, both on a grand scale, but in particular, at the molecular level. Some of the simplest organisms manage to create incredibly complex molecules with a variety of functions that help them survive. 
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+As an undergraduate I fell in love with the challenge of trying to replicate the work done by nature. The combination of practical skill with the mental problem solving and analysis has made organic chemistry a real pleasure to pursue (at least when things work...). 
 
-----
-
-## Etcetera
-
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
-
+For the last year I've had a really big interest in starting a blog to share the beauty behind how chemists make the complex molecules of nature - and viola, here it is!
