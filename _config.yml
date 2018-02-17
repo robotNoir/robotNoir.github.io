@@ -56,12 +56,6 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           alterable: true
-      - name: "categories"
-      	field:
-        	element: "multiselect"
-            label: "Add categories"
-            placeholder: "Choose categories"
-            alterable: true
       - name: "comments"
         field: 
           element: "checkbox"
