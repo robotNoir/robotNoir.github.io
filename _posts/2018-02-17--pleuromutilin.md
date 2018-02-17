@@ -1,8 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: (+)-Pleuromutilin
-tags: test
+date: '2018-02-17'
+comments: true
+tags:
+  - test
+description: A test description!
 ---
 ## A New Post
 
