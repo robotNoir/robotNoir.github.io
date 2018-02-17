@@ -1,15 +1,15 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Immitating Nature"
 description: > 
-  Write a description of your website here.
+  A Total Synthesis blog.
 
-author: Johnny Appleseed
+author: Angus Robertson
 email: johnny@appleseed.com
 twitter_username:
 github_username:
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "/robotnoir.github.io" # the subpath of your site, e.g. /blog
+url: "https://robotnoir.github.io" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
