@@ -20,12 +20,13 @@ markdown: kramdown
 permalink: /:year/:month/:title
 
 # Prose settings
-metadata:
-  _posts:
-    - name: "title"
-      field:
-        element: "text"
-        label: "title"
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
 
 sass:
     style: compressed
