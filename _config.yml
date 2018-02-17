@@ -61,9 +61,6 @@ prose:
         	element: "multiselect"
             label: "Add categories"
             placeholder: "Choose categories"
-            value:
-            	- name: "Personal"
-                  value: personal
             alterable: true
       - name: "comments"
         field: 
