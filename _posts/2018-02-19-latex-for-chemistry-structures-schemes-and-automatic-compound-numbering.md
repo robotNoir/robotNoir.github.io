@@ -2,7 +2,7 @@
 layout: post
 date: '2018-02-19 00:45 +1100'
 comments: true
-published: false
+published: true
 title: 'LaTeX for Chemistry: Structures, Schemes and Automatic Compound Numbering'
 description: Automatically numbering compounds in text and chemdraw schemes in LaTeX.
 tags:
@@ -76,4 +76,3 @@ To start we need to set up a basic report-style document using `\documentclass[]
 
 
 ## Referencing
-
