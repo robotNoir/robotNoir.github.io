@@ -6,10 +6,7 @@ published: true
 title: 'LaTeX for Chemistry #1 - Getting Started'
 tags:
   - LaTeX
-description: >-
-  A beginners guide to utilising LaTex to write a synthetic chemistry report.
-  This post covers how to get LaTeX, setting up a text editor, version
-  control/backup and setting up a basic TeX document.
+description: A beginners guide to LaTeX for writing a synthetic chemistry report/thesis.
 ---
 For those unfamiliar, LaTeX is a sort of document preparation system that yields really high quality published documents. It's used for a lot of technical and scientific documentation including by a number of big journals. 
 
