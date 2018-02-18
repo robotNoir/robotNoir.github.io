@@ -18,7 +18,7 @@ LaTeX is totally free and can be installed on Linux, Mac or Windows (and can eve
 My aim is to make a number of posts that share some of the hints, tricks and experiences that I learnt during the process of writing a thesis - in particuarly in synthetic organic chemistry - in the hopes they may help others! 
 
 ## Getting Latex
-First things first - getting your hands on LaTeX. Heading over to [https://www.latex-project.org/get/] and scrolling down will show links to LaTeX distributions for Linux, Mac and Windows. Be warned - these downloads can take a fair bit of time, so be prepared to wait a little. 
+First things first - getting your hands on LaTeX. Heading over to [www.latex-project.org](https://www.latex-project.org/get/) and scrolling down will show links to LaTeX distributions for Linux, Mac and Windows. Be warned - these downloads can take a fair bit of time, so be prepared to wait a little. 
 
 Once downloaded follow through with the instructions to install the distribution, and you'll likely end up with a bunch applications - ignore these for now.
 
