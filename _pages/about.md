@@ -14,3 +14,7 @@ Nature can be really beautiful, both on a grand scale, but in particular, at the
 As an undergraduate I fell in love with the challenge of trying to replicate the work done by nature. The combination of practical skill with the mental problem solving and analysis has made organic chemistry a real pleasure to pursue (at least when things work...). 
 
 For the last year I've had a really big interest in starting a blog to share the beauty behind how chemists make the complex molecules of nature - and viola, here it is!
+
+---
+
+This site is being powered by Jekyll through [Github Pages](https://pages.github.com) with the [Paper Jekyll Theme](https://github.com/mkchoi212/paper-jekyll-theme) by Mike Choi (@mkchoi212).
