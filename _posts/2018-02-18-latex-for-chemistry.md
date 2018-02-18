@@ -23,7 +23,7 @@ One of the most painful experiences in writing any type of report or thesis in c
 
 Hello [chemnum](https://ctan.org/pkg/chemnum?lang=en)! Chemnum is a LaTeX package that offers a couple of really nice features around numbering chemical compounds. It allows you to assign a *label* to a compound (ie. 'ester-a') and when the document is compiled with automatic generate and assign numbers to every *label*. Even better is it allows the replacing a text in EPS or PS files, meaning we can automatically number compounds in chemdraw schemes. Hecking cool!
 
-To start we need to set up a basic report-style document using `TeX \documentclass[]{report}`. Then load in the chemnum package with `TeX \usepackage{chemnum}` and finally start out document via `TeX \start{document}`.
+To start we need to set up a basic report-style document using `\documentclass[]{report}`. Then load in the chemnum package with `\usepackage{chemnum}` and finally start out document via `\start{document}`.
 
 
 ```TeX
@@ -38,10 +38,7 @@ To start we need to set up a basic report-style document using `TeX \documentcla
     \cmpd*{cmpd:carboxylic-acid}
     \cmpd*{cmpd:alcohol}
     \cmpd*{cmpd:ester}
-    
 \end{document}
-	
-
 ```
 
 
