@@ -2,7 +2,7 @@
 layout: post
 date: '2018-02-19 00:45 +1100'
 comments: true
-published: true
+published: false
 title: 'LaTeX for Chemistry #2 - Automatic Compound Numbering'
 description: Automatically numbering compounds in text and chemdraw schemes in LaTeX.
 tags:
