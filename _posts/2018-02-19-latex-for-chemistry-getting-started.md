@@ -3,7 +3,7 @@ layout: post
 date: '2018-02-18 20:00 +1100'
 comments: true
 published: true
-title: 'LaTeX for Chemistry: Getting Started'
+title: 'LaTeX for Chemistry #1 - Getting Started'
 tags:
   - LaTeX
 description: A beginners guide to writing a synthetic chemistry report or thesis in LaTeX.
