@@ -2,7 +2,7 @@
 layout: post
 date: '2018-02-18 20:00 +1100'
 comments: true
-published: false
+published: true
 title: 'LaTeX for Chemistry: Getting Started'
 tags:
   - LaTeX
