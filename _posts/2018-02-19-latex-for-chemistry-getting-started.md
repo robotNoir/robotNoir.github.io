@@ -29,7 +29,7 @@ Follow the instruction on the site to install - for me I clicked the 'Download f
 
 Once Atom is open you'll have to open the preferences tab (in Mac thats via Atom > Preferences) and then click on the 'Install' tab on the left. We're going to install some packages for Atom which will allow us to compile/run LaTeX documents within Atom, get special highlighting in LaTeX documents and view pdf's within Atom. 
 
-Type in `latex` (at the time of writing the latex package is v0.49.0) and click install, then do the same for `language-latex` and `pdf-view` (currently v1.1.1 and v0.65.0). Whilst were here click on the 'Packages' tab on the left, then on the `latex` package and under _Settings_ toggle the _Enable Shell Escape_ (this is going to allow the latex program to run other subprograms needed when compling our documents). 
+Type in `latex` (at the time of writing the latex package is v0.49.0) and click install, then do the same for `language-latex`, `latex-tools` and `pdf-view`. Whilst were here click on the 'Packages' tab on the left, then on the `latex` package and under _Settings_ toggle the _Enable Shell Escape_ (this is going to allow the latex program to run other subprograms needed when compling our documents). 
 
 You're now ready to start writing - and compling - LaTeX documents!
 
@@ -54,10 +54,9 @@ Finally, let's add some content to our document by typing `Hello World!` between
 Hello World!
 \end{document}
 ```
-To compile this to a pdf file in Atom, go to Packages > LaTeX > Build or `CMD + SHIFT + P` on Mac. In the bottom left corner of Atom there's a little spinning wheel to show that LaTeX is building the file which should be done really quickly and generate a number of files in the same folder as the `.tex` file. 
+To compile this to a pdf file in Atom, go to Packages > LaTeX > Build or `CMD + SHIFT + P` and then 'Build' followed by `Enter` on Mac. In the bottom left corner of Atom there's a little spinning wheel to show that LaTeX is building the file which should be done really quickly and generate a number of files in the same folder as the `.tex` file. 
 
 If all has gone well you should end up with a pdf that looks like this: 
 
 [latex-chemistry-1-example-output.png]({{site.baseurl}}/assets/latex-chemistry-1-example-output.png)
 {: .center}
-
