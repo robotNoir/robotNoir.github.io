@@ -25,6 +25,15 @@ Hello [chemnum](https://ctan.org/pkg/chemnum?lang=en)! Chemnum is a LaTeX packag
 
 To start we need to set up a basic report-style document using `\documentclass[]{report}`. Then load in the chemnum package with `\usepackage{chemnum}` and finally start out document via `\begin{document}`.
 
+```TeX
+\documentclass[]{report}
+\usepackage{chemnum}
+
+\begin{document}
+
+\end{document}
+```
+
 
 ```TeX
 \documentclass[]{report}
@@ -34,12 +43,18 @@ To start we need to set up a basic report-style document using `\documentclass[]
 
 % Start Document
 \begin{document}
-	% Declare our compounds
+% Declare our compounds
     \cmpd*{cmpd:carboxylic-acid}
     \cmpd*{cmpd:alcohol}
     \cmpd*{cmpd:ester}
+    
+    A Steglich esterification is as esterification between \cmpd{cmpd:carboxylic-acid} and \cmpd{cmpd:alcohol} to afford \cmpd{cmpd:ester} with the coupling reagent DCC and catalytic DMAP.
+    
 \end{document}
 ```
+
+
+
 
 
 
@@ -48,7 +63,20 @@ To start we need to set up a basic report-style document using `\documentclass[]
 
 
 
+```TeX
+\documentclass[]{report}
 
+% Load Packages
+\usepackage{chemnum}
+
+% Start Document
+\begin{document}
+% Declare our compounds
+    \cmpd*{cmpd:carboxylic-acid}
+    \cmpd*{cmpd:alcohol}
+    \cmpd*{cmpd:ester}
+\end{document}
+```
 
 
 
