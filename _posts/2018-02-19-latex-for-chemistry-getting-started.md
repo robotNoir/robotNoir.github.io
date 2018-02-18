@@ -58,5 +58,5 @@ To compile this to a pdf file in Atom, go to Packages > LaTeX > Build or `CMD + 
 
 If all has gone well you should end up with a pdf that looks like this: 
 
-[latex-chemistry-1-example-output.png]({{site.baseurl}}/assets/latex-chemistry-1-example-output.png)
+![PDF output]({{site.baseurl}}/assets/latex-chemistry-1-example-output.png)
 {: .center}
